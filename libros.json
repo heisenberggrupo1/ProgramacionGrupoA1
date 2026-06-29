@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "titulo": "El Quijote",
+    "autor": "Miguel de Cervantes",
+    "genero": "Novela",
+    "stock": 5
+  },
+  {
+    "id": 2,
+    "titulo": "Clean Code",
+    "autor": "Robert C. Martin",
+    "genero": "Programacion",
+    "stock": 3
+  },
+  {
+    "id": 3,
+    "titulo": "Cien años de soledad",
+    "autor": "Gabriel Garcia Marquez",
+    "genero": "Novela",
+    "stock": 4
+  },
+  {
+    "id": 4,
+    "titulo": "Programacion en Go",
+    "autor": "Alan Donovan",
+    "genero": "Programacion",
+    "stock": 2
+  },
+  {
+    "id": 5,
+    "titulo": "La ciudad y los perros",
+    "autor": "Mario Vargas Llosa",
+    "genero": "Novela",
+    "stock": 4
+  },
+  {
+    "id": 6,
+    "titulo": "Introduccion a la programacion",
+    "autor": "Joyanes Aguilar",
+    "genero": "Educativo",
+    "stock": 6
+  }
+]
